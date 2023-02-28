@@ -1,0 +1,23 @@
+{
+  "name": "package-json-template",
+  "version": "1.0.0",
+  "description": "primeira aula back-end",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "brazil":"node index.js brazil",
+    "buscaPorLetra": "node buscaPorLetra.js b",
+    "novoPais": "node incluirPais.js Timor-Leste TL",
+    "nomeEIdade": "node nomeEIdade.js anapaula 26"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anapgouveia/node-package-json-template.git"
+  },
+  "author": "ana paula",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anapgouveia/node-package-json-template/issues"
+  },
+  "homepage": "https://github.com/anapgouveia/node-package-json-template#readme"
+}
